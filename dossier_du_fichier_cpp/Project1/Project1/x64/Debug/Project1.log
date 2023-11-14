@@ -1,0 +1,4 @@
+﻿  traitement.cpp
+D:\semestre2\avanceprogrammation\very\Project1\Project1\traitement.cpp(170,12): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\semestre2\avanceprogrammation\very\Project1\Project1\traitement.cpp(175,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Project1.vcxproj -> D:\semestre2\avanceprogrammation\very\Project1\x64\Debug\Project1.exe
